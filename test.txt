@@ -1,5 +1,8 @@
 ﻿    void main(void)
     {
         print("朝日新聞");
-
+        print("読売新聞");
+        print("毎日新聞");
+        print("産経新聞");
+        print("日経新聞");
     }
